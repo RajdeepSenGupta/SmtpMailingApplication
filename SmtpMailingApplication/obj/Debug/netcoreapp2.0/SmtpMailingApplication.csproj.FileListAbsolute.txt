@@ -1,0 +1,11 @@
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\bin\Debug\netcoreapp2.0\SmtpMailingApplication.deps.json
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\bin\Debug\netcoreapp2.0\SmtpMailingApplication.runtimeconfig.json
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\bin\Debug\netcoreapp2.0\SmtpMailingApplication.runtimeconfig.dev.json
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\bin\Debug\netcoreapp2.0\SmtpMailingApplication.dll
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\bin\Debug\netcoreapp2.0\SmtpMailingApplication.pdb
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\obj\Debug\netcoreapp2.0\SmtpMailingApplication.csprojResolveAssemblyReference.cache
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\obj\Debug\netcoreapp2.0\SmtpMailingApplication.csproj.CoreCompileInputs.cache
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\obj\Debug\netcoreapp2.0\SmtpMailingApplication.AssemblyInfoInputs.cache
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\obj\Debug\netcoreapp2.0\SmtpMailingApplication.AssemblyInfo.cs
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\obj\Debug\netcoreapp2.0\SmtpMailingApplication.dll
+c:\users\rajdeep\source\repos\SmtpMailingApplication\SmtpMailingApplication\obj\Debug\netcoreapp2.0\SmtpMailingApplication.pdb
