@@ -25,6 +25,7 @@ namespace SmtpMailingApplication
             string emailMessageBody = "Testing";
 
             var mail = new MailMessage { IsBodyHtml = true };
+			
             try
             {
                 if (toAddress1 != null)
